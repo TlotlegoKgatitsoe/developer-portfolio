@@ -1,0 +1,23 @@
+{
+  "name": "my-developer-portfolio",
+  "version": "1.0.0",
+  "description": "my developer portfolio created using next js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "now-build": "next build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "1.0.1",
+    "bootstrap": "4.3.1",
+    "next": "^7.0.2",
+    "react": "^16.8.5",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.8.5"
+  }
+}
